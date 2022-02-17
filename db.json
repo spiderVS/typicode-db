@@ -6,6 +6,6 @@
     { "id": 4, "title": "Купить подарок на 8е Марта", "completed": false },
     { "id": 5, "title": "Выбросить мусор", "completed": false },
     { "id": 6, "title": "Заказать пиццу на вечер", "completed": true },
-    { "id": 7, "title": "Смазать цепь в велосипеде", "completed": true },
+    { "id": 7, "title": "Смазать цепь в велосипеде", "completed": true }
   ]
 }
